@@ -1,0 +1,23 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
+#localVideo {
+  z-index: 99;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border-color: #F0F8FF;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+#js-chat-body {
+  max-height: 255px;
+  overflow: auto;
+}
