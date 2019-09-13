@@ -1,6 +1,5 @@
 #WebRTC Rails
 
-[![Join the chat at https://gitter.im/XescuGC/webrtc-rails](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/XescuGC/webrtc-rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a basic aplication I have build to test WebRTC, my main objective is to practice WebRTC. I will slowly improve the aplication, and add more features each time.
 
@@ -8,7 +7,7 @@ This is a basic aplication I have build to test WebRTC, my main objective is to 
 
 To start the project and test is at your own you have to do the following:
 
-1. Clone the repo: ```git clone git@github.com:XescuGC/webrtc-rails.git```
+1. Clone the repo: ```git@github.com:raptor1001/WebRTC-Ruby.git```
 2. Install all the gems with ```bundle install```
 3. Go to ```app/rtc/``` and run ```npm install``` to install ```socket.io```
 4. Check to see your IP: ```ifconfig```, copy the IP and change the ones in ```public/javascripts/rtc/client_signaling.js``` and at the first line change the ```io.connect('YOUR-IP:2013')```
@@ -43,13 +42,3 @@ As I said before the main objective is to practice WebRTC but I will list some o
 ##Slides
 
 I've made a short Presentation of WebRTC in my Office, here are the [Slides](https://github.com/XescuGC/webrtc-slides)
-
-##Collaborate
-
-You can participate with whatever you want, and use/fork this code (if you find it usefull) for whatever you want ofcourse. If you want to propose more ideas will be welcome jeje
-
-##Contact
-
-email: xescugil@gmail.com
-
-twitter: [@xescugc](https://twitter.com/xescugc)
