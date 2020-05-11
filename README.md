@@ -39,6 +39,3 @@ As I said before the main objective is to practice WebRTC but I will list some o
 8. Room with more than 2 Peers
 9. Change the Chat from NodeJS to WebRTC DataChannel
 
-##Slides
-
-I've made a short Presentation of WebRTC in my Office, here are the [Slides](https://github.com/XescuGC/webrtc-slides)
