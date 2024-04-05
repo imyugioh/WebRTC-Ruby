@@ -1,7 +1,7 @@
 #WebRTC Rails
 
 
-This is a basic aplication I have build to test WebRTC, my main objective is to practice WebRTC. I will slowly improve the aplication, and add more features each time.
+This is a basic application I have build to test WebRTC, my main objective is to practice WebRTC. I will slowly improve the application, and add more features each time.
 
 ##Start Now
 
@@ -34,8 +34,8 @@ As I said before the main objective is to practice WebRTC but I will list some o
 3. **DONE** Add a chat module (with NodeJs, latter can be improved to be with arbitrary data with RTCDataChannel)
 4. Change the NodeJS server to a native Ruby (EventMachine)
 5. Control of errors in the Call (on of the Peers leave ... etc)
-6. **DONE** Ability to create your own rooms with diferets names, and to setup an user name (for the Chat)
-7. Ability to activate and desactivate Video or Audio, and reactivate them 
+6. **DONE** Ability to create your own rooms with different names, and to setup an user name (for the Chat)
+7. Ability to activate and deactivate Video or Audio, and reactivate them 
 8. Room with more than 2 Peers
 9. Change the Chat from NodeJS to WebRTC DataChannel
 
